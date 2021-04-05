@@ -25,7 +25,6 @@ The required libraries for this code are:
 - json
 - jsonpickle
 - re
-- matplotlib
 - tkinter
 - matplotlib  
 - pprint  
